@@ -4,5 +4,6 @@
 [https://github.com/Srivatsav515/AIML_BATCH_05/blob/main/Assignment_3.ipynb]
 [https://github.com/Srivatsav515/AIML_BATCH_05/blob/main/assignment_4.ipynb]
 [https://github.com/Srivatsav515/AIML_BATCH_05/blob/main/assignment_5.ipynb]
+[https://github.com/Srivatsav515/AIML_BATCH_05/blob/main/assignment_06.ipynb]
 [https://github.com/Srivatsav515/AIML_BATCH_05/blob/main/assignment_7.ipynb]
 [https://github.com/Srivatsav515/AIML_BATCH_05/blob/main/assignment_8.ipynb]
